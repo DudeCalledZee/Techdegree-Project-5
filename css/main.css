@@ -2,7 +2,9 @@ body {
   width: 90%;
   margin: auto;
   max-width: 1200px;
+  min-width: 1231px;
 }
+
 .search {
   width: 41%;
   padding: 12px;
