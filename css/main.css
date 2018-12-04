@@ -1,0 +1,11 @@
+.container,
+body {
+  width: 90%;
+  margin: auto;
+}
+
+.gallery img {
+  padding: 15px;
+  width: 200px;
+  margin: 20px;
+}
