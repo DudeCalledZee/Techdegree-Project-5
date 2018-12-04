@@ -1,7 +1,15 @@
-.container,
 body {
   width: 90%;
   margin: auto;
+  max-width: 1200px;
+}
+.search {
+  width: 490px;
+  padding: 12px;
+  margin: 50px 100px 0 300px;
+  border-radius: 10px;
+  border-style: none;
+  border: solid lightgrey 1px;
 }
 
 .gallery img {
