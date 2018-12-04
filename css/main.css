@@ -41,8 +41,11 @@ body {
 
 /* media query */
 
-@media (min-width: 929px) {
+@media (min-width: 700px) {
   .search {
     margin: 50px 100px 0 300px;
+  }
+  li {
+    display: inline;
   }
 }
