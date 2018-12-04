@@ -17,3 +17,22 @@ body {
   width: 200px;
   margin: 20px;
 }
+
+/* lightbox css */
+
+.lb-data .lb-caption {
+  font-size: 14px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.lb-data .lb-details {
+  text-align: center;
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+.lb-nav a.lb-next,
+.lb-nav a.lb-prev {
+  opacity: 1;
+}
