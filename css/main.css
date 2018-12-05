@@ -4,6 +4,10 @@ body {
   max-width: 1200px;
 }
 
+a {
+  font-size: 0px;
+}
+
 .search {
   width: 41%;
   padding: 12px;
